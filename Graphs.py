@@ -7,6 +7,7 @@ Created on Thu Nov 22 09:21:53 2018
 """
 
 #%% Graphs
+# https://www.python-course.eu/graphs_python.php
 # nodes = keys
 # edges = values
 
